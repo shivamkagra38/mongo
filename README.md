@@ -1,7 +1,7 @@
-## commands of MongoDB shell
+## Commands of MongoDB shell
 
 # Simple operations
- - show dbs -> show all the databases of cluster
+ - Show dbs -> Show all the databases of cluster
 
 # Create operations
  - 
