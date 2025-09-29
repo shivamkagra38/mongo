@@ -15,3 +15,5 @@
  - db.collectionName.find({"name":"Shivam"}) -> Fetches all the data of _collection_ where name is Shivam
  - db.collectionName.find().limit(1) -> Fetches only one document(object)
  - db.collectionName.find().skip(1) -> skips 1st document/object and returns all other documents
+ - db.collectionName.find().sort(qty:1) -> Ascending order
+ - db.collectionName.find().sort(qty:-1) -> descending order
